@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 jorge carlos herrera ramirez
-=======
 juan
-
->>>>>>> delmy
